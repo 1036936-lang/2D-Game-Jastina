@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 4f3dca7eb3fccb94b9d0356c34fb3727
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4433643791056631371
+    second: goblin running_0
+  - first:
+      213: 7651391790531852964
+    second: goblin running_1
+  - first:
+      213: -4903826876503252974
+    second: goblin running_2
+  - first:
+      213: -6746687434595990607
+    second: goblin running_3
+  - first:
+      213: 2552680925722471388
+    second: goblin running_4
+  - first:
+      213: -7006952593978698138
+    second: goblin running_5
+  - first:
+      213: 3281783140245466699
+    second: goblin running_6
+  - first:
+      213: 5342379114130906623
+    second: goblin running_7
+  - first:
+      213: 3139812677158532922
+    second: goblin running_8
+  - first:
+      213: -4409275023645602017
+    second: goblin running_9
+  - first:
+      213: -1419706485852175579
+    second: goblin running_10
+  - first:
+      213: 7079131312161243011
+    second: goblin running_11
+  - first:
+      213: 8825920352839224429
+    second: goblin running_12
+  - first:
+      213: 3234495566410435713
+    second: goblin running_13
+  - first:
+      213: -483741402677057242
+    second: goblin running_14
+  - first:
+      213: -5085010094197476798
+    second: goblin running_15
+  - first:
+      213: 1421803593916766322
+    second: goblin running_16
+  - first:
+      213: -4432448850447335387
+    second: goblin running_17
+  - first:
+      213: -8098955677352412692
+    second: goblin running_18
+  - first:
+      213: -2685939306011128875
+    second: goblin running_19
+  - first:
+      213: 1474163507273616775
+    second: goblin running_20
+  - first:
+      213: 245918130270406539
+    second: goblin running_21
+  - first:
+      213: 450867383753544579
+    second: goblin running_22
+  - first:
+      213: 3437896708108648337
+    second: goblin running_23
+  - first:
+      213: 562492934971328522
+    second: goblin running_24
+  - first:
+      213: 2807497285149450135
+    second: goblin running_25
+  - first:
+      213: 1085974170853807242
+    second: goblin running_26
+  - first:
+      213: 7916186195988802745
+    second: goblin running_27
+  - first:
+      213: -2197699132094859094
+    second: goblin running_28
+  - first:
+      213: -4108327942541601319
+    second: goblin running_29
+  - first:
+      213: 8549274160313234810
+    second: goblin running_30
+  - first:
+      213: 9138756007447052271
+    second: goblin running_31
+  - first:
+      213: -2472170224624607011
+    second: goblin running_32
+  - first:
+      213: -6958863802894719690
+    second: goblin running_33
+  - first:
+      213: 4667854315450025351
+    second: goblin running_34
+  - first:
+      213: -4268681750702257079
+    second: goblin running_35
+  - first:
+      213: -3704501862254072706
+    second: goblin running_36
+  - first:
+      213: -4706476645968470186
+    second: goblin running_37
+  - first:
+      213: 2322771138781730418
+    second: goblin running_38
+  - first:
+      213: 1505620979634456017
+    second: goblin running_39
+  - first:
+      213: 4919353671507452156
+    second: goblin running_40
+  - first:
+      213: 9077863860815363657
+    second: goblin running_41
+  - first:
+      213: -1166332264399955162
+    second: goblin running_42
+  - first:
+      213: -2470965749647382911
+    second: goblin running_43
+  - first:
+      213: 3337421912325379339
+    second: goblin running_44
+  - first:
+      213: -4272900062974875083
+    second: goblin running_45
+  - first:
+      213: 3107651647521518621
+    second: goblin running_46
+  - first:
+      213: 6181674814792618128
+    second: goblin running_47
+  - first:
+      213: 6500353657812494749
+    second: goblin running_48
+  - first:
+      213: -6902243798560299122
+    second: goblin running_49
+  - first:
+      213: -9047995377905925134
+    second: goblin running_50
+  - first:
+      213: 4910358223129570694
+    second: goblin running_51
+  - first:
+      213: -1781354560724394879
+    second: goblin running_52
+  - first:
+      213: 9163718237573443604
+    second: goblin running_53
+  - first:
+      213: -1677151119726101222
+    second: goblin running_54
+  - first:
+      213: -2917276784012004872
+    second: goblin running_55
+  - first:
+      213: 6815234467193650811
+    second: goblin running_56
+  - first:
+      213: -5022288481393675932
+    second: goblin running_57
+  - first:
+      213: -1298467555418871180
+    second: goblin running_58
+  - first:
+      213: 251668756310856977
+    second: goblin running_59
+  - first:
+      213: 8043311305447323745
+    second: goblin running_60
+  - first:
+      213: -4373212294841682942
+    second: goblin running_61
+  - first:
+      213: -5654421135009015663
+    second: goblin running_62
+  - first:
+      213: 2754129454015432047
+    second: goblin running_63
+  - first:
+      213: 7599560897300193185
+    second: goblin running_64
+  - first:
+      213: 7882798032457028203
+    second: goblin running_65
+  - first:
+      213: -1031676650952413735
+    second: goblin running_66
+  - first:
+      213: -3073984368062527634
+    second: goblin running_67
+  - first:
+      213: 4743470577676278702
+    second: goblin running_68
+  - first:
+      213: 4682436803993246616
+    second: goblin running_69
+  - first:
+      213: 4023439164486340924
+    second: goblin running_70
+  - first:
+      213: -2368322077748679085
+    second: goblin running_71
+  - first:
+      213: -2451793889096158796
+    second: goblin running_72
+  - first:
+      213: 9216535712236451906
+    second: goblin running_73
+  - first:
+      213: -4520306458959536779
+    second: goblin running_74
+  - first:
+      213: 3320863389312574046
+    second: goblin running_75
+  - first:
+      213: 6833670193103598355
+    second: goblin running_76
+  - first:
+      213: -3163818885992349346
+    second: goblin running_77
+  - first:
+      213: -4521136138758151666
+    second: goblin running_78
+  - first:
+      213: -4089508359825695280
+    second: goblin running_79
+  - first:
+      213: -1974102428624829170
+    second: goblin running_80
+  - first:
+      213: -4357795548272769878
+    second: goblin running_81
+  - first:
+      213: 215104908988256696
+    second: goblin running_82
+  - first:
+      213: -7600716722234328913
+    second: goblin running_83
+  - first:
+      213: -7269800548778582446
+    second: goblin running_84
+  - first:
+      213: 3030757280220190928
+    second: goblin running_85
+  - first:
+      213: -4588927096338298042
+    second: goblin running_86
+  - first:
+      213: -4027110195434949208
+    second: goblin running_87
+  - first:
+      213: 3369561190567181386
+    second: goblin running_88
+  - first:
+      213: 7048688799231400252
+    second: goblin running_89
+  - first:
+      213: -26879878641826813
+    second: goblin running_90
+  - first:
+      213: 2557361951473170312
+    second: goblin running_91
+  - first:
+      213: 3013224655536979273
+    second: goblin running_92
+  - first:
+      213: -7940431049943246890
+    second: goblin running_93
+  - first:
+      213: 8319328213804763931
+    second: goblin running_94
+  - first:
+      213: 1980209426079788945
+    second: goblin running_95
+  - first:
+      213: -5909393711640673031
+    second: goblin running_96
+  - first:
+      213: 8494971976956837178
+    second: goblin running_97
+  - first:
+      213: -8734522973653451727
+    second: goblin running_98
+  - first:
+      213: 9080631549411862449
+    second: goblin running_99
+  - first:
+      213: 6829817797047204539
+    second: goblin running_100
+  - first:
+      213: -7841922177520106822
+    second: goblin running_101
+  - first:
+      213: -2290134990217492717
+    second: goblin running_102
+  - first:
+      213: -5280955481756246510
+    second: goblin running_103
+  - first:
+      213: 3556362297341875552
+    second: goblin running_104
+  - first:
+      213: -3791815468590325899
+    second: goblin running_105
+  - first:
+      213: 1703099940391920923
+    second: goblin running_106
+  - first:
+      213: -3585549362355325799
+    second: goblin running_107
+  - first:
+      213: 3006201190464734494
+    second: goblin running_108
+  - first:
+      213: 9149421301789266383
+    second: goblin running_109
+  - first:
+      213: -3362823561568901403
+    second: goblin running_110
+  - first:
+      213: -3404546462745153430
+    second: goblin running_111
+  - first:
+      213: -3540310251799028186
+    second: goblin running_112
+  - first:
+      213: -7470169367594428616
+    second: goblin running_113
+  - first:
+      213: 8450157743592114186
+    second: goblin running_114
+  - first:
+      213: -5533813067607939742
+    second: goblin running_115
+  - first:
+      213: 132003848845963698
+    second: goblin running_116
+  - first:
+      213: 3673556817564465699
+    second: goblin running_117
+  - first:
+      213: 7145883625828979600
+    second: goblin running_118
+  - first:
+      213: -4593811117810781590
+    second: goblin running_119
+  - first:
+      213: 1956717792682327840
+    second: goblin running_120
+  - first:
+      213: -7078568383603395541
+    second: goblin running_121
+  - first:
+      213: -2539293582924377762
+    second: goblin running_122
+  - first:
+      213: 894110757685920531
+    second: goblin running_123
+  - first:
+      213: -2159327786915753714
+    second: goblin running_124
+  - first:
+      213: -1763983551748606528
+    second: goblin running_125
+  - first:
+      213: 4919118485264161530
+    second: goblin running_126
+  - first:
+      213: 7335585522214871754
+    second: goblin running_127
+  - first:
+      213: 5440229703294789674
+    second: goblin running_128
+  - first:
+      213: 722787363391562664
+    second: goblin running_129
+  - first:
+      213: -1685968562951753647
+    second: goblin running_130
+  - first:
+      213: -1238178881800995391
+    second: goblin running_131
+  - first:
+      213: 1583712249558027328
+    second: goblin running_132
+  - first:
+      213: 6136259362457854165
+    second: goblin running_133
+  - first:
+      213: -7173081427501037141
+    second: goblin running_134
+  - first:
+      213: -7972751601722989738
+    second: goblin running_135
+  - first:
+      213: -1432023028683132350
+    second: goblin running_136
+  - first:
+      213: 5897401306486809090
+    second: goblin running_137
+  - first:
+      213: -8517749479833949649
+    second: goblin running_138
+  - first:
+      213: 6799521086552039551
+    second: goblin running_139
+  - first:
+      213: -4961367379809790739
+    second: goblin running_140
+  - first:
+      213: -1982431882913627006
+    second: goblin running_141
+  - first:
+      213: -2771167372470985771
+    second: goblin running_142
+  - first:
+      213: 6492051455901272215
+    second: goblin running_143
+  - first:
+      213: 8791520308344413529
+    second: goblin running_144
+  - first:
+      213: 1351084580140473847
+    second: goblin running_145
+  - first:
+      213: 4505415844081745753
+    second: goblin running_146
+  - first:
+      213: -2859898692559574429
+    second: goblin running_147
+  - first:
+      213: 8748648773212028718
+    second: goblin running_148
+  - first:
+      213: 13631674653916737
+    second: goblin running_149
+  - first:
+      213: -7413735967975163864
+    second: goblin running_150
+  - first:
+      213: -7778474956376643460
+    second: goblin running_151
+  - first:
+      213: -96889315809473862
+    second: goblin running_152
+  - first:
+      213: -4998805706610111380
+    second: goblin running_153
+  - first:
+      213: 1024419248069027890
+    second: goblin running_154
+  - first:
+      213: 6274721828076760510
+    second: goblin running_155
+  - first:
+      213: 4735511607751794289
+    second: goblin running_156
+  - first:
+      213: 2190502453864537874
+    second: goblin running_157
+  - first:
+      213: 2509212090517743815
+    second: goblin running_158
+  - first:
+      213: 6238055049816624699
+    second: goblin running_159
+  - first:
+      213: 4059909928681454256
+    second: goblin running_160
+  - first:
+      213: -7859645073812701408
+    second: goblin running_161
+  - first:
+      213: 1659160367302211766
+    second: goblin running_162
+  - first:
+      213: -5213730588267802356
+    second: goblin running_163
+  - first:
+      213: 8700113846749973618
+    second: goblin running_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46fb8a9987778d30800000000000000
+      internalID: 4433643791056631371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin running_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aabdff6b443f2a60800000000000000
+      internalID: 7651391790531852964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin running_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a20aff6b12fbb0800000000000000
+      internalID: -4903826876503252974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin running_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b380521683fe52a0800000000000000
+      internalID: -6746687434595990607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9283847b2d627e143a83e642a8cecc8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin running_0: 4433643791056631371
+      goblin running_1: 7651391790531852964
+      goblin running_2: -4903826876503252974
+      goblin running_3: -6746687434595990607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
