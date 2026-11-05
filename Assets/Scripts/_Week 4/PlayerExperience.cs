@@ -31,19 +31,19 @@ public class PlayerExperience : MonoBehaviour
     private void Start()
     {
         // TODO: Call the function that sets up the XP slider.
-
+        SetupXpSlider();
 
 
         // TODO: Call the function that updates the XP UI.
-
+        UpdateXpUI();
 
 
         // TODO: Call the function that updates the Level UI.
-
+        UpdateLevelUI();
 
 
         // TODO: Print the player's starting level and XP to the Console.
-
+        Debug.Log("Player Starting Level: " + level + ", Starting XP: " + currentXP);
 
     }
 
@@ -66,11 +66,12 @@ public class PlayerExperience : MonoBehaviour
         if (Keyboard.current[debugKey].wasPressedThisFrame)
         {
             // TODO: Call AddXP and give it debugXpAmount.
+            AddXP(debugXpAmount);
 
 
 
             // TODO: Print the amount of XP added and the player's current XP.
-
+            Debug.Log("XP Added: " + debugXpAmount + ", Current XP: " + currentXP);
 
         }
     }
@@ -78,50 +79,57 @@ public class PlayerExperience : MonoBehaviour
     public void AddXP(int amount)
     {
         // TODO: Add amount to the player's current XP.
-
+        currentXP += amount;
 
 
         // TODO: Check whether the player has enough XP to level up.
         // If they do, call the LevelUp function.
-
+        if (currentXP >= xpToNextLevel)
+        {
+            LevelUp();
+        }
 
 
         // TODO: Call the function that updates the XP UI.
 
-
+        UpdateXpUI();
     }
 
     private void LevelUp()
     {
         // TODO: Remove the required XP from the player's current XP.
-
+        currentXP -= xpToNextLevel;
 
 
         // TODO: Increase the player's level by 1.
+        level += 1;
 
 
 
         // TODO: Print the player's new level to the Console.
-
+        Debug.Log("Player Leveled Up! New Level: " + level);
 
 
         // TODO: Call the function that updates the Level UI.
-
+        UpdateLevelUI();
 
 
         // TODO: Increase the XP required for the next level by 25.
-
+        xpToNextLevel += 25;
 
 
         // TODO: Check whether the player still has enough XP to level up again.
         // If they do, call LevelUp again.
         // This is recursion: a function calling itself.
         // Careful...do this one last as it can crash Unity.
-
+        if (currentXP >= xpToNextLevel)
+        {
+            LevelUp();
+        }
 
 
         // TODO: Call the function that updates the XP UI.
-
+        UpdateXpUI();
 
     }
 
@@ -141,10 +149,10 @@ public class PlayerExperience : MonoBehaviour
         xpSlider.minValue = 0;
 
         // TODO: Set the slider's maximum value to the XP required for the next level.
-        xpSlider.maxValue = 0;
+        xpSlider.maxValue = xpToNextLevel;
 
         // TODO: Set the slider's current value to the player's current XP.
-        xpSlider.value = 0;
+        xpSlider.value = currentXP;
     }
 
     private void UpdateXpUI()
@@ -160,10 +168,10 @@ public class PlayerExperience : MonoBehaviour
         }
 
         // TODO: Keep the slider's maximum value matched to the XP required for the next level.
-        xpSlider.maxValue = 0;
+        xpSlider.maxValue = xpToNextLevel;
 
         // TODO: Set the slider's current value to the player's current XP.
-        xpSlider.value = 0;
+        xpSlider.value = currentXP;
     }
 
     private void UpdateLevelUI()
@@ -179,11 +187,14 @@ public class PlayerExperience : MonoBehaviour
         }
 
         // TODO: Display the player's current level.
-        levelText.text = "";
+        levelText.text = "Level: " + level;
 
         // TODO: Check that gameOverLevelText is not null.
         // If it exists, display the level reached on the Game Over screen.
 
-
+        if (gameOverLevelText != null)
+        {
+            gameOverLevelText.text = "Level Reached: " + level;
+        }
     }
 }
