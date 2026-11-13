@@ -179,7 +179,7 @@ public class PlayerHealth : MonoBehaviour
         // TODO: Give damageAmount a random value between
         // minimumDebugDamage and maximumDebugDamage.
         // Include both the minimum and maximum values.
-        int damageAmount = 0;
+        int damageAmount = Random.Range(minimumDebugDamage, maximumDebugDamage + 1);
 
 
 

@@ -96,7 +96,7 @@ public class GameManager : MonoBehaviour
     {
         // TODO: Check whether the game is already over.
         // If it is, stop this function.
-        if (!gameIsOver)
+        if (gameIsOver)
         {
             return;
         }
