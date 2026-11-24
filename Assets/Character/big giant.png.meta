@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 8b2fa16782b836d449e216f7271ecefa
+guid: 8892e2674edb2754c9390367d54cb860
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4603673030896729181
-    second: Rquit_0
+      213: 2733174723926435385
+    second: big giant_0
+  - first:
+      213: -387937708499985784
+    second: big giant_1
+  - first:
+      213: 6520691555066223507
+    second: big giant_2
+  - first:
+      213: -8121595776865261242
+    second: big giant_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rquit_0
+      name: big giant_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 44
-        width: 86
-        height: 32
+        x: 0
+        y: 0
+        width: 543
+        height: 724
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5c35a4fa3883ef30800000000000000
-      internalID: 4603673030896729181
+      spriteID: 93626b03eef2ee520800000000000000
+      internalID: 2733174723926435385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big giant_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a11e1a5b4cd9af0800000000000000
+      internalID: -387937708499985784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big giant_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9c95db662e7a50800000000000000
+      internalID: 6520691555066223507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big giant_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64922a6cbab4a4f80800000000000000
+      internalID: -8121595776865261242
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 79821e57b23112e4682439f5a019cfc1
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Rquit_0: 4603673030896729181
+      big giant_0: 2733174723926435385
+      big giant_1: -387937708499985784
+      big giant_2: 6520691555066223507
+      big giant_3: -8121595776865261242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
